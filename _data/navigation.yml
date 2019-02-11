@@ -4,9 +4,9 @@ main:
     url: https://ajeannin.github.io/
   - title: "Research"
     url: https://ajeannin.github.io/research/
-   - title: "Teaching"
+  - title: "Teaching"
     url: https://ajeannin.github.io/teaching/
-   - title: "Misc."
+  - title: "Misc."
     url: https://ajeannin.github.io/misc/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

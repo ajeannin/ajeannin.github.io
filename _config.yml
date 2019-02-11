@@ -109,7 +109,7 @@ author:
   name             : "Anne Jeannin-Girardon, PhD"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate Professor of Computer Science"
-  location         : "Strasbourg University"
+  location         : #" "
   email            :
   links:
     - label: "Email"

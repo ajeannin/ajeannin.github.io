@@ -1,4 +1,5 @@
 ---
+permalink: /home/
 title: My page
 layout: default
 ---

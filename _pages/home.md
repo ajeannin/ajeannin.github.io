@@ -1,7 +1,8 @@
 ---
-permalink: /home/
-title: My page
-layout: default
+permalink: /
+title: Anne Jeannin-Girardon
+layout: single
+author_profile: true
 ---
 
 # {{ page.title }}

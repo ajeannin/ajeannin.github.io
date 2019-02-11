@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : " "
-title_separator          : ""
+title_separator          : " "
 name                     : "Anne Jeannin-Girardon"
 description              : "Associate Professor, Computer Science"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anne Jeannin-Girardon"
+  name             : "Anne Jeannin-Girardon, PhD"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate Professor of Computer Science"
   location         : "Strasbourg University"

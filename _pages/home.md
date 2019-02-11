@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Anne Jeannin-Girardon, PhD
+title: 
 layout: single
 author_profile: true
 ---

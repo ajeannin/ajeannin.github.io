@@ -109,7 +109,7 @@ author:
   name             : #""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate Professor of Computer Science"
-  location         : #" "
+  location         : "Strasbourg, France"
   email            :
   links:
     - label: "Email"

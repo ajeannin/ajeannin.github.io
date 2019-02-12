@@ -7,7 +7,6 @@
    ========================================================================== */
 
 .sidebar {
-  font-align: left;
   
   @include clearfix();
   @include breakpoint(max-width $large) {
@@ -170,6 +169,7 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  font-align: left;
 }
 
 .author__bio {

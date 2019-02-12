@@ -4,7 +4,6 @@ title: Research
 layout: single
 author_profile: true
 ---
-
 ## Overview
 
 I am interested in Complex System in general (Complex System theory and modeling). As of today, my research interests specifically concerns machine learning, deep learning, agents and multi-agents systems.

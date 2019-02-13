@@ -4,5 +4,25 @@ title: Teaching
 layout: single
 author_profile: true
 ---
+## Current courses (2016-19)
+* Undergrad courses
+  * Introduction to web programing (Lecture 12hrs / Practical work 15hrs)
+  * Algorithms and Programing (Lecture & tutorials 38hrs / Practical work 22hrs)
+  * Artificial Intelligence (Lecture 10hrs / Practical work 10hrs)
+* Graduate courses
+  * Collective & Artificial Intelligence (Lecture & tutorials 14hrs / Practical works 14hrs)
+  * Object Oriented Programming [Bioinformatics students] (Lectures 8hrs / Tutorials 10hrs / Practical works 10hrs)
 
-todo
+I also taught English for Computer Science (2016-18)
+
+Prior to my hiring as Associate Professor in Strasbourg, I also taught the following courses at the University of Western Brittany (Brest, France):
+* Algorithms and Programming
+* Information Technology & Internet Certification (In french : "Certificat Informatique et Internet C2I")
+* IT environments
+* Programming languages
+* Fundamental algorithmic and graphs
+* Advanced C Programming
+* Java programming and development tools
+* IP Networks
+* Cognitive and reactive modeling
+* Compilation, models and languages for parallel systems

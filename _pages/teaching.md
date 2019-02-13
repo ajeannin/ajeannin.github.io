@@ -9,6 +9,7 @@ author_profile: true
   * Introduction to web programing (Lecture 12hrs / Practical work 15hrs)
   * Algorithms and Programming (Lecture & tutorials 38hrs / Practical work 22hrs)
   * Artificial Intelligence (Lecture 10hrs / Practical work 10hrs)
+  * Object Oriented Programming (French-Azerbaijani University ([link](https://www.ufaz.az/))
 * Graduate courses
   * Collective & Artificial Intelligence (Lecture & tutorials 14hrs / Practical works 14hrs)
   * Object Oriented Programming [Bioinformatics students] (Lectures 8hrs / Tutorials 10hrs / Practical works 10hrs)

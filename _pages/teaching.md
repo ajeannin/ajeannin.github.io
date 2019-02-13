@@ -7,7 +7,7 @@ author_profile: true
 ## Current courses (2016-19)
 * Undergraduate courses
   * Introduction to web programing (Lecture 12hrs / Practical work 15hrs)
-  * Algorithms and Programing (Lecture & tutorials 38hrs / Practical work 22hrs)
+  * Algorithms and Programming (Lecture & tutorials 38hrs / Practical work 22hrs)
   * Artificial Intelligence (Lecture 10hrs / Practical work 10hrs)
 * Graduate courses
   * Collective & Artificial Intelligence (Lecture & tutorials 14hrs / Practical works 14hrs)

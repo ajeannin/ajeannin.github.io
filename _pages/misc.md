@@ -4,7 +4,10 @@ title: Misc.
 layout: single
 author_profile: true
 ---
-## Resources for undergraduate students
+## Computer Science resources for undergraduate students
+* Visualising data structures and algorithms through animation https://visualgo.net/en(https://visualgo.net/en)
+
+## General resources for undergraduate students
 * Cornell University Learning Strategies Center [isc.cornell.edu](http://lsc.cornell.edu/study-skills/read-about/)
 * [Book] How to Study in College, by W. Pauk and R.J.Q. Owens, ISBN-10: 1133960782 (2013)
 

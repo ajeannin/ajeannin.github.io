@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 ## Computer Science resources for undergraduate students
-* Visualising data structures and algorithms through animation https://visualgo.net/en(https://visualgo.net/en)
+* Visualising data structures and algorithms through animation [https://visualgo.net/en](https://visualgo.net/en)
 
 ## General resources for undergraduate students
 * Cornell University Learning Strategies Center [isc.cornell.edu](http://lsc.cornell.edu/study-skills/read-about/)

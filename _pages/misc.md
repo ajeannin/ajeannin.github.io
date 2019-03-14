@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 ---
 ## Resources for writing scientific or lab reports
-* How to write a lab report ? (in french) [pdf](https://ajeannin.github.io/assets/methodo_compte_rendu.pdf)
-* How to write a scientific report ? (in french) [pdf](https://ajeannin.github.io/assets/redaction_rapport_scientifique.pdf)
+* How to write a lab report ? (in french) [pdf](https://ajeannin.github.io/assets/pdf/methodo_compte_rendu.pdf)
+* How to write a scientific report ? (in french) [pdf](https://ajeannin.github.io/assets/pdf/redaction_rapport_scientifique.pdf)
 
 ## Computer Science resources for undergraduate students
 * Visualising data structures and algorithms through animation [https://visualgo.net/en](https://visualgo.net/en)

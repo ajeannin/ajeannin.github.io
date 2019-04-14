@@ -3,6 +3,7 @@ permalink: /misc/
 title: Misc.
 layout: single
 author_profile: true
+toc: true
 ---
 ## Resources for writing scientific or lab reports
 * How to write a lab report ? (in french) [pdf](https://ajeannin.github.io/assets/pdf/methodo_compte_rendu.pdf)

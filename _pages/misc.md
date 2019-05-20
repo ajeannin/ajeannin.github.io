@@ -18,4 +18,5 @@ toc: true
 
 ## Resources for graduate students
 * How to read a scientific paper, by S. Keshav ([download](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf))
+* Duke University scientific writing resource ([link](https://cgi.duke.edu/web/sciwriting/index.php))
 * The illustrated guide to a PhD by M. Might ([link](http://matt.might.net/articles/phd-school-in-pictures/))

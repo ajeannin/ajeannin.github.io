@@ -31,8 +31,8 @@ In these projects, there are different issues at stake: reliable and robust comp
   * Nestor Demeure / B cell regulatory networks modeling (comp. sci. grad. student)
   * Fabien Delhomme (math. grad. student) and Melchior Villa (comp. sci. grad. student) / Concentric multi-valued map (co-supervisor: Dr B. Sauvage)
 * 2019
-  * Amadou Oury Bah / DEEM : Hybrid machine learning : combining Deep lEarning models with Evolutionary algorithMs (comp. sci. grad. student)
-  * Amarin Hutt / STREAK : quantitative meaSure of feaTure tRansfer in dEep neurAl networKs (comp. sci. grad. student)
+  * Amadou Oury Bah / Hybrid machine learning : combining deep learning models with evolutionary algorithms (comp. sci. grad. student)
+  * Amarin Hutt / quantitative measure of feature transfer in deep neural networks (comp. sci. grad. student)
   * Corentin Mengel / ATLAS : Algebraic TopoLogy for dAta Similarity (math. grad. student)
 
 ### Research projects (~150 hrs)

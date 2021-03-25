@@ -13,6 +13,6 @@ I am an Associate Professor in the [CSTB research team](http://icube-cstb.unistr
 * Learn more about my teaching activities [here](https://ajeannin.github.io/teaching/)
 * If you are a student, you may be interested by some [extra resources](https://ajeannin.github.io/misc/)
 
-Want to send me a message ? Feel free to use this online [Google form](https://goo.gl/forms/3oUYShddAe0gjhfE2).
+[Contact form](https://goo.gl/forms/3oUYShddAe0gjhfE2).
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4691-904X" href="https://orcid.org/0000-0003-4691-904X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">&nbsp;&nbsp;https://orcid.org/0000-0003-4691-904X</a></div>

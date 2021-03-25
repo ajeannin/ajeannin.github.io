@@ -17,7 +17,7 @@ These days, I am especially interested in the following fundamental AI topics:
 
 The applications of this work are diverse, and I (try to) contribute in some CSTB team projects such as [POEM](http://poem.unistra.fr/fr/index.php/Accueil) (educational ecosystem), [EASEA](http://easea.unistra.fr/index.php/EASEA_platform) (computing ecosystem), [HOPE](http://hope.unistra.fr/index.php/Accueil) and [RADAR](http://radar.unistra.fr/index.php/Main_Page) (health ecosystem, and in particular Electronic Health Records (EHR)).
 
-In these projects, there are different issues at stake: reliable and robust computerization of medical records (and digital resources in general); data analysis with machine learning algorithms; optimal educational trajectories determination and knowledge maps; ...
+[List of publications](https://icube-publis.unistra.fr/appli.php?author=Anne+Jeannin&title=&team=toutes&annee1=&annee2=&nationalRank=toutes&project=tous)
 
 ## Scientific supervision
 

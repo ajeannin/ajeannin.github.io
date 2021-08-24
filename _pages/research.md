@@ -62,6 +62,7 @@ The applications of this work are diverse, and I (try to) contribute in some CST
   * M. Seyer / Non-representational approaches for agent behavior modeling (comp. sci. grad. student)
 
 ### Scientific dissemination
+* "Quelle intégration des systèmes intelligents dans nos sociétés ?", intervention à la table ronde Intelligence artificielle et démocratie, vers quels interactions et enjeux du jardin des sciences de l’Université de Strasbourg, février 2020
 * "Transfer learning: review and recent advances" (Nov. 2019), workshop of the ICube research axis Data Science and Artificial Intelligence (DSAI)
 * Talk at the "Journées Système 2018" in Strasbourg (Oct. 2018): "Theoretical and practical challenges of machine learning" ([video, in french](https://webcast.in2p3.fr/video/defis-theoriques-et-pratiques-de-lintelligence-artificielle))
 * Hosting of the complex system stand at the Science Week ("fête de la science") / With P. Collet (2016 and 2017)

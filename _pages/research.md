@@ -7,23 +7,27 @@ toc: true
 ---
 ## Overview
 
-I am interested in Complex System in general (Complex System theory and modeling). As of today, my research interests specifically concerns machine learning, deep learning, agents and multi-agents systems.
+I am interested in Complex Systems in general (Complex Systems theory and modeling). As of today, my research interests specifically concerns machine learning, deep learning, agents and multi-agents systems.
 
-These days, I am especially interested in the following fundamental AI topics:
-* Transfer learning
-* Model uncertainty
-* Explicability
+I am particularly interested in the following core AI problems these days:
+* Explainability
 * Autonomy
+* Ethics
+* Model uncertainty
+* Transfer learning
 
-The applications of this work are diverse, and I (try to) contribute in some CSTB team projects such as [POEM](http://poem.unistra.fr/fr/index.php/Accueil) (educational ecosystem), [EASEA](http://easea.unistra.fr/index.php/EASEA_platform) (computing ecosystem), [HOPE](http://hope.unistra.fr/index.php/Accueil) and [RADAR](http://radar.unistra.fr/index.php/Main_Page) (health ecosystem, and in particular Electronic Health Records (EHR)).
+I also take part in research projects involving the application of machine learning techniques to the annotation of biological sequences.
+
+I try to contribute in some CSTB team projects such as [POEM](http://poem.unistra.fr/fr/index.php/Accueil) (educational ecosystem), [EASEA](http://easea.unistra.fr/index.php/EASEA_platform) (computing ecosystem), [HOPE](http://hope.unistra.fr/index.php/Accueil) and [RADAR](http://radar.unistra.fr/index.php/Main_Page) (health ecosystem, and in particular Electronic Health Records (EHR)).
 
 [List of publications](https://icube-publis.unistra.fr/appli.php?author=Anne+Jeannin&title=&team=toutes&annee1=&annee2=&nationalRank=toutes&project=tous)
 
 ## Scientific supervision
 
 ### PhD supervision
-* H. Khodji (sept. 2020 - directors: Dr J. Thompson & Pr. P Collet) / Characterization of the transferability of latent features in deep neural networks. Application to gene error prediction.
-* N. Scalzitti (Dec. 2018 - directors: Dr J. Thompson & Pr. P. Collet) / New gene annotation and detection strategies for genome sequencing projects, by massively parallel coupled artificial intelligence and artificial evolution algorithms
+* Q. Christoffel (oct. 2021 - director: Dr. A. Deruyver) / uncertainty of machine learning models and knowledge injection
+* H. Khodji (oct. 2020 - directors: Dr J. Thompson & Pr. P Collet) / Characterization of the transferability of latent features in deep neural networks. Application to gene error prediction.
+* N. Scalzitti (Dec. 2018 - Sept. 2021, directors: Dr J. Thompson & Pr. P. Collet) / New gene annotation and detection strategies for genome sequencing projects, by massively parallel coupled artificial intelligence and artificial evolution algorithms
 * R. Orhand (Oct. 2018 - directors: Dr P. Parrend & Pr. P. Collet) / Towards autonomous computers by combination of artificial intelligence and artificial evolution
 * A. Ouskova (Aug. 2018 - directors: Dr P. Parrend & Pr. P. Collet) / Evolutionary optimization of refrigeration systems using magnetocaloric alloy
 
@@ -33,6 +37,8 @@ The applications of this work are diverse, and I (try to) contribute in some CST
   * M. Haegelin / GPU based signal processing optimization for mass spectrometry data
 
 ### Internships
+* 2022
+  * L. Wehrli / Explaining machine learning black-boxes (comp. sci. grad. student) (main advisor: S. Mark-Swecker)
 * 2021
   * Q. Christoffel / Deep Bayesian neural networks (comp. sci. grad. student)
 * 2020
@@ -47,6 +53,8 @@ The applications of this work are diverse, and I (try to) contribute in some CST
   * F. Delhomme (math. grad. student) and Melchior Villa (comp. sci. grad. student) / Concentric multi-valued map (co-supervisor: Dr B. Sauvage)
 
 ### Research projects (~150 hrs)
+* 2021-22
+  *
 * 2020-21
   N. Mountasir / Comparing uncertainty quantifications in deep neural networks
 * 2019-20

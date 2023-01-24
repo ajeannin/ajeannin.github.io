@@ -7,7 +7,7 @@ author_profile: true
 
 I am an Associate Professor in the [CSTB research team](http://icube-cstb.unistra.fr/fr/index.php/Accueil) (Complex System and Translational Bioinformatics) of the [ICube laboratory](https://icube.unistra.fr/) at the [University of Strasbourg](http://www.unistra.fr).
 
-(TL;DR) In a broad sense, I am interested in the study of Complex Systems. My current research interests are focused on Artificial Intelligence (Machine Learning, Deep Learning and Intelligent Agents and Multi-Agents systems).
+(TL;DR) I am interested in artificial intelligence, machine learning, and the epistemological and ethical issues surrounding this field.
 
 * Learn more about my research activities [here](https://ajeannin.github.io/research/).
 * Learn more about my teaching activities [here](https://ajeannin.github.io/teaching/)

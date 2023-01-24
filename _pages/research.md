@@ -7,29 +7,31 @@ toc: true
 ---
 ## Overview
 
-I am interested in Complex Systems in general (Complex Systems theory and modeling). As of today, my research interests specifically concerns machine learning, deep learning, agents and multi-agents systems.
+I am interested in machine learning and artificial intelligence, both from a theoretical and a practical standpoint (through research on knowledge transferability, model interpretability, uncertainty, and knowledge representation, and applications in bioinformatics or optimization).
+Additionally, I attempt to consider the epistemological and ethical questions that arise when one becomes interested artificial intelligence.
 
-I am particularly interested in the following core AI problems these days:
-* Explainability
-* Autonomy
-* Ethics
-* Model uncertainty
-* Transfer learning
+Keywords (in alphabetic order):
+* AI epistemology and ethics
+* autonomy
+* (deep) machine learning
+* epistemic and aleatoric uncertainty
+* interpretability
+* neuro-symbolic AI
+* transfer learning
 
-I also take part in research projects involving the application of machine learning techniques to the annotation of biological sequences.
 
-I try to contribute in some CSTB team projects such as [POEM](http://poem.unistra.fr/fr/index.php/Accueil) (educational ecosystem), [EASEA](http://easea.unistra.fr/index.php/EASEA_platform) (computing ecosystem), [HOPE](http://hope.unistra.fr/index.php/Accueil) and [RADAR](http://radar.unistra.fr/index.php/Main_Page) (health ecosystem, and in particular Electronic Health Records (EHR)).
-
-[List of publications](https://icube-publis.unistra.fr/appli.php?author=Anne+Jeannin&title=&team=toutes&annee1=&annee2=&nationalRank=toutes&project=tous)
+[List of publications](https://publis.icube.unistra.fr/?author=Anne+Jeannin-Girardon)
 
 ## Scientific supervision
 
 ### PhD supervision
-* Q. Christoffel (oct. 2021 - director: Dr. A. Deruyver) / uncertainty of machine learning models and knowledge injection
-* H. Khodji (oct. 2020 - directors: Dr J. Thompson & Pr. P Collet) / Characterization of the transferability of latent features in deep neural networks. Application to gene error prediction.
-* N. Scalzitti (Dec. 2018 - Sept. 2021, directors: Dr J. Thompson & Pr. P. Collet) / New gene annotation and detection strategies for genome sequencing projects, by massively parallel coupled artificial intelligence and artificial evolution algorithms
-* R. Orhand (Oct. 2018 - directors: Dr P. Parrend & Pr. P. Collet) / Towards autonomous computers by combination of artificial intelligence and artificial evolution
-* A. Ouskova (Aug. 2018 - directors: Dr P. Parrend & Pr. P. Collet) / Evolutionary optimization of refrigeration systems using magnetocaloric alloy
+* A. Khudiyev (oct. 2022 - director: A. Jeannin-Girardon, Latafat Gardashova / Neuro-symbolic artificial intelligence
+* Q. Christoffel (oct. 2021 - director: A. Deruyver) / uncertainty of machine learning models and knowledge injection
+* H. Khodji (oct. 2020 - directors: J. Thompson & P Collet) / Characterization of the transferability of latent features in deep neural networks. Application to gene error prediction.
+
+* N. Scalzitti (Dec. 2018 - Sept. 2021, directors: J. Thompson & P. Collet) / New gene annotation and detection strategies for genome sequencing projects, by massively parallel coupled artificial intelligence and artificial evolution algorithms
+* R. Orhand (Oct. 2018 - Nov. 2022, directors: P. Parrend & P. Collet) / Towards autonomous computers by combination of artificial intelligence and artificial evolution
+* A. Ouskova (Aug. 2018 - May 2022, directors: P. Parrend & P. Collet) / Evolutionary optimization of refrigeration systems using magnetocaloric alloy
 
 ### Apprenticeship training (graduate students)
 * 2016-2018
@@ -48,29 +50,32 @@ I try to contribute in some CSTB team projects such as [POEM](http://poem.unistr
   * A. Oury Bah / Hybrid machine learning : combining deep learning models with evolutionary algorithms (comp. sci. grad. student)
   * A. Hutt / quantitative measure of feature transfer in deep neural networks (comp. sci. grad. student)
   * C. Mengel / ATLAS : Algebraic TopoLogy for dAta Similarity (math. grad. student)
+* 2018
+  * N. Bannour / Anomaly detection in time series data (main supervisor : N. Lachiche)
 * 2017 
   * N. Demeure / B cell regulatory networks modeling (comp. sci. grad. student)
   * F. Delhomme (math. grad. student) and Melchior Villa (comp. sci. grad. student) / Concentric multi-valued map (co-supervisor: Dr B. Sauvage)
 
 ### Research projects (~150 hrs)
-* 2021-22
-  *
 * 2020-21
-  N. Mountasir / Comparing uncertainty quantifications in deep neural networks
+  * N. Mountasir / Comparing uncertainty quantifications in deep neural networks / co-supervisors : S. Marc-Zwecker and D. Bernhard (comp. sci. grad. student)
+  * E. Chetouane / Semantic and artificial neural networks (comp. sci. grad. student)
 * 2019-20
   * Q. Christoffel / Explicability of convolutional neural networks using evolutionary algorithms (comp. sci. grad. student)
-  * F. Nawfal / Comparative study of transfer learning methods
+  * F. Nawfal / Comparative study of transfer learning methods (comp. sci. grad. student)
 * 2018-19
   * E. Kalbé / Collision detection in virtual environments: comparison of cognitive and geometric approaches (comp. sci. grad. student)
-  * G. Mukunde / Deep learning for protein properties identification / co-supervisors: Dr O. Poch & Dr L. Moulinier (comp. sci. grad. student)
-  * M. Haller / Deep learning for protein fold classification / co-supervisor: Pr. C. Mayer (comp. sci. grad. student)
+  * G. Mukunde / Deep learning for protein properties identification / co-supervisors: O. Poch & L. Moulinier (comp. sci. grad. student)
+  * M. Haller / Deep learning for protein fold classification / co-supervisor: C. Mayer (comp. sci. grad. student)
   * A. Hutt / Multi-task learning, transfer learning and adaptability of deep neural networks / co-supervisor: R. Orhand (comp. sci. grad. student)
 * 2017-18
   * E. Kalbé / Non-representational approaches for agent behavior modeling (comp. sci. grad. student)
   * M. Seyer / Non-representational approaches for agent behavior modeling (comp. sci. grad. student)
 
 ### Scientific dissemination
-* "Quelle intégration des systèmes intelligents dans nos sociétés ?", intervention à la table ronde Intelligence artificielle et démocratie, vers quels interactions et enjeux du jardin des sciences de l’Université de Strasbourg, février 2020
+* "Intelligence artificielle, éthique et santé", intervention à la conférence IA de l'ESBS "L'IA au service de la santé ; éthique et cas d'usages", janvier 2023
+* "Intelligence artificielle : de la technique aux enjeux sociaux", intervention à la journée doctorale de l'université de Haute Alsace à Mulhouse, juin 2022
+* "Quelle intégration des systèmes intelligents dans nos sociétés ?", intervention à la table ronde Intelligence artificielle et démocratie, vers quels interactions et enjeux du jardin des sciences de l’Université de Strasbourg, feb. 2020
 * "Transfer learning: review and recent advances" (Nov. 2019), workshop of the ICube research axis Data Science and Artificial Intelligence (DSAI)
 * Talk at the "Journées Système 2018" in Strasbourg (Oct. 2018): "Theoretical and practical challenges of machine learning" ([video, in french](https://webcast.in2p3.fr/video/defis-theoriques-et-pratiques-de-lintelligence-artificielle))
 * Hosting of the complex system stand at the Science Week ("fête de la science") / With P. Collet (2016 and 2017)

@@ -109,9 +109,9 @@ author:
   name             : #""
   avatar           : assets/pics/ajg_v_bw150.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |-
-    "Associate Professor of Computer Science"
-    " "
-    "Accredited to supervise research"
+    Associate Professor of Computer Science
+    
+    Accredited to supervise research
   location         : "Strasbourg, France"
   email            :
   links:

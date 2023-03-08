@@ -8,7 +8,7 @@ toc: true
 ## Overview
 
 I am interested in machine learning and artificial intelligence, both from a theoretical and a practical standpoint (through research on knowledge transferability, model interpretability, uncertainty, and knowledge representation, and applications in bioinformatics or optimization).
-Additionally, I attempt to consider the epistemological and ethical questions that arise when one becomes interested artificial intelligence.
+Additionally, I am interested in looking into the epistemological and ethical issues raised by the use of AI.
 
 Keywords (in alphabetic order):
 * AI epistemology and ethics

@@ -8,6 +8,8 @@ main:
     url: https://ajeannin.github.io/teaching/
   - title: "Other resources"
     url: https://ajeannin.github.io/resources/
+  - title: "Odds and ends"
+    url: https://ajeannin.github.io/odds-and-ends
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

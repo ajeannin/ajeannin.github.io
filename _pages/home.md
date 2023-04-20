@@ -11,7 +11,7 @@ I am an Associate Professor in the [CSTB research team](http://icube-cstb.unistr
 
 * Learn more about my research activities [here](https://ajeannin.github.io/research/).
 * Learn more about my teaching activities [here](https://ajeannin.github.io/teaching/)
-* If you are a student, you may be interested by some [extra resources](https://ajeannin.github.io/misc/)
+* If you are a student, you may be interested by some [extra resources](https://ajeannin.github.io/resources/)
 
 [Contact form](https://goo.gl/forms/3oUYShddAe0gjhfE2).
 

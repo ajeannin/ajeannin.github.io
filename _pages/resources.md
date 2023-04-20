@@ -1,6 +1,6 @@
 ---
-permalink: /misc/
-title: Misc.
+permalink: /resources/
+title: Other resources
 layout: single
 author_profile: true
 toc: true

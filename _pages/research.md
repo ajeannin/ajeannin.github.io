@@ -22,10 +22,6 @@ Keywords (in alphabetic order):
 
 [List of publications](https://publis.icube.unistra.fr/?author=Anne+Jeannin-Girardon)
 
-[Habilitation thesis (in French) "Contributions à une approche épistémologique de l'intelligence artificielle", nov. 2022](https://seafile.unistra.fr/f/7a94661aed88435480b7/?dl=1)
-
-[PhD thesis (in French), nov. 2014](https://theses.hal.science/tel-01174752/)
-
 ## Scientific supervision
 
 ### PhD supervision

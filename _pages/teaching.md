@@ -5,16 +5,23 @@ layout: single
 author_profile: true
 ---
 ## Current courses
-* Undergraduate courses
-  * Introduction to web programing (Lecture 12hrs / Practical work 15hrs)
-  * Algorithms and Programming (Lecture & tutorials 38hrs / Practical work 22hrs)
-  * Artificial Intelligence (Lecture 10hrs / Practical work 10hrs)
-  * Object Oriented Programming (French-Azerbaijani University ([link](https://www.ufaz.az/)) \[2016, 2017\]
-  * English for computer science \[2016-2018\]
-* Graduate courses
-  * Collective Intelligence & Deep Learning (Lecture & tutorials 14hrs / Practical works 14hrs)
-  * Object Oriented Programming \[Bioinformatics students\] (Lectures 8hrs / Tutorials 10hrs / Practical works 10hrs) \[2017\]
+* Algorithms and Programming (CS students, undergrad.)
+* Artificial Intelligence (CS students, undergrad.)
+* Scientific methodology and epistemology (CS students, undergrad.)
+* Introduction to deep learning (CS students, grad.)
+* Epistemological and technical challenges of explainable AI (CS students, grad.)
+* Machine learning (Biotechnology students, grad.)
+* A history of concepts in artificial intelligence (Data Science students, grad.)
+ 
+## Previously taught courses
+* Undergrad
+  * Introduction to web programing
+  * Object Oriented Programming
+  * English for computer science
+* Grad
+  * Object Oriented Programming \[Bioinformatics students\]
 
+## Further back in the past
 Prior to my hiring as Associate Professor in Strasbourg, I also taught the following courses at the University of Western Brittany (Brest, France):
 * Algorithms and Programming
 * Information Technology & Internet Certification (In french : "Certificat Informatique et Internet C2I")

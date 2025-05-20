@@ -8,7 +8,7 @@ toc: true
 ## Overview
 
 I am interested in machine learning and artificial intelligence, both from a theoretical and a practical standpoint (through research on knowledge transferability, model interpretability, uncertainty, and knowledge representation, and applications in bioinformatics or optimization).
-Additionally, I am interested in looking into the epistemological and ethical issues raised by the use of AI.
+Additionally, I am interested in looking into the epistemological and ethical challenges raised by AI.
 
 Keywords (in alphabetic order):
 * AI epistemology and ethics
@@ -25,8 +25,8 @@ Keywords (in alphabetic order):
 ## Scientific supervision
 
 ### PhD supervision
-* A. Khudiyev (oct. 2022 - directors: A. Jeannin-Girardon, Latafat Gardashova / Neuro-symbolic artificial intelligence
-* Q. Christoffel (oct. 2021 - director: A. Deruyver) / uncertainty of machine learning models and knowledge injection
+* A. Khudiyev (oct. 2022 - directors: A. Jeannin-Girardon, Latafat Gardashova) / Neuro-symbolic artificial intelligence
+* Q. Christoffel (oct. 2021 - Nov. 2024, director: A. Deruyver) / uncertainty of machine learning models and knowledge injection
 * H. Khodji (oct. 2020 - directors: J. Thompson & P Collet) / Characterization of the transferability of latent features in deep neural networks. Application to gene error prediction.
 
 * N. Scalzitti (Dec. 2018 - Sept. 2021, directors: J. Thompson & P. Collet) / New gene annotation and detection strategies for genome sequencing projects, by massively parallel coupled artificial intelligence and artificial evolution algorithms
@@ -39,6 +39,8 @@ Keywords (in alphabetic order):
   * M. Haegelin / GPU based signal processing optimization for mass spectrometry data
 
 ### Internships
+* 2023
+  * L. Pluot / Le quotidien d'un laboratoire de recherche (grad. student in epistemology and history of sciences)
 * 2022
   * L. Wehrli / Explaining machine learning black-boxes (comp. sci. grad. student) (main advisor: S. Mark-Swecker)
 * 2021
@@ -57,6 +59,10 @@ Keywords (in alphabetic order):
   * F. Delhomme (math. grad. student) and Melchior Villa (comp. sci. grad. student) / Concentric multi-valued map (co-supervisor: Dr B. Sauvage)
 
 ### Research projects (~150 hrs)
+* 2024-25
+  * N. Olejniczak / Non monotonic AI (comp. sci. grad. student)
+  * S. Hashemi / Constrained supervised learning of latent representations (comp. sci. grad. student)
+  * J. Andreoli / Transfert learning (comp. sci. grad. student)
 * 2020-21
   * N. Mountasir / Comparing uncertainty quantifications in deep neural networks / co-supervisors : S. Marc-Zwecker and D. Bernhard (comp. sci. grad. student)
   * E. Chetouane / Semantic and artificial neural networks (comp. sci. grad. student)
@@ -73,6 +79,9 @@ Keywords (in alphabetic order):
   * M. Seyer / Non-representational approaches for agent behavior modeling (comp. sci. grad. student)
 
 ### Scientific dissemination
+* "Éthide de l'intelligence artificielle en santé: regard sur l'IA en contexte scientifique", séminaire sur les techniques *in silico* et intelligence artificielle de l'Institut du Médicament de Strasbourg (IMS), Strasbourg, Novembre 2025
+* "Une perspective épistémologique sur l'intelligence artificielle", séminaire à l'occasion des 10 ans du laboratoire ICube, Strasbourg, janvier 2024
+* "L'intelligence artificielle comme système socio-techinique", séminaire des cadres de la fondation Vincent de Paul, Strasbourg, octobre 2023
 * "Intelligence artificielle, éthique et santé", intervention à la conférence IA de l'ESBS "L'IA au service de la santé ; éthique et cas d'usages", janvier 2023
 * "Intelligence artificielle : de la technique aux enjeux sociaux", intervention à la journée doctorale de l'université de Haute Alsace à Mulhouse, juin 2022
 * "Quelle intégration des systèmes intelligents dans nos sociétés ?", intervention à la table ronde Intelligence artificielle et démocratie, vers quels interactions et enjeux du jardin des sciences de l’Université de Strasbourg, feb. 2020

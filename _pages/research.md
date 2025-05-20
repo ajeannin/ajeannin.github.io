@@ -62,7 +62,7 @@ Keywords (in alphabetic order):
 * 2024-25
   * N. Olejniczak / Non monotonic AI (comp. sci. grad. student)
   * S. Hashemi / Constrained supervised learning of latent representations (comp. sci. grad. student)
-  * J. Andreoli / Transfert learning (comp. sci. grad. student)
+  * J. Andreolli / Transfert learning (comp. sci. grad. student) / main supervisor: R. Orhand
 * 2020-21
   * N. Mountasir / Comparing uncertainty quantifications in deep neural networks / co-supervisors : S. Marc-Zwecker and D. Bernhard (comp. sci. grad. student)
   * E. Chetouane / Semantic and artificial neural networks (comp. sci. grad. student)
@@ -79,7 +79,7 @@ Keywords (in alphabetic order):
   * M. Seyer / Non-representational approaches for agent behavior modeling (comp. sci. grad. student)
 
 ### Scientific dissemination
-* "Éthide de l'intelligence artificielle en santé: regard sur l'IA en contexte scientifique", séminaire sur les techniques *in silico* et intelligence artificielle de l'Institut du Médicament de Strasbourg (IMS), Strasbourg, Novembre 2025
+* "Éthique de l'intelligence artificielle en santé: regard sur l'IA en contexte scientifique", séminaire sur les techniques *in silico* et intelligence artificielle de l'Institut du Médicament de Strasbourg (IMS), Strasbourg, Novembre 2025
 * "Une perspective épistémologique sur l'intelligence artificielle", séminaire à l'occasion des 10 ans du laboratoire ICube, Strasbourg, janvier 2024
 * "L'intelligence artificielle comme système socio-techinique", séminaire des cadres de la fondation Vincent de Paul, Strasbourg, octobre 2023
 * "Intelligence artificielle, éthique et santé", intervention à la conférence IA de l'ESBS "L'IA au service de la santé ; éthique et cas d'usages", janvier 2023

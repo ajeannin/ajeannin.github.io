@@ -26,7 +26,7 @@ Keywords (in alphabetic order):
 
 ### PhD supervision
 * A. Khudiyev (oct. 2022 - directors: A. Jeannin-Girardon, Latafat Gardashova) / Neuro-symbolic artificial intelligence
-* Q. Christoffel (oct. 2021 - Nov. 2024, director: A. Deruyver) / uncertainty of machine learning models and knowledge injection
+* Q. Christoffel (oct. 2021 - Nov. 2024, director: A. Deruyver) / Learning differentiated representations in deep learning models
 * H. Khodji (oct. 2020 - directors: J. Thompson & P Collet) / Characterization of the transferability of latent features in deep neural networks. Application to gene error prediction.
 
 * N. Scalzitti (Dec. 2018 - Sept. 2021, directors: J. Thompson & P. Collet) / New gene annotation and detection strategies for genome sequencing projects, by massively parallel coupled artificial intelligence and artificial evolution algorithms

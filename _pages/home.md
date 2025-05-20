@@ -5,9 +5,9 @@ layout: single
 author_profile: true
 ---
 
-I am an Associate Professor in the [CSTB research team](http://icube-cstb.unistra.fr/fr/index.php/Accueil) (Complex System and Translational Bioinformatics) of the [ICube laboratory](https://icube.unistra.fr/) at the [University of Strasbourg](http://www.unistra.fr).
+I am an Associate Professor in the [CSTB research group](http://icube-cstb.unistra.fr/fr/index.php/Accueil) (Complex System and Translational Bioinformatics) of the [ICube laboratory](https://icube.unistra.fr/) at the [University of Strasbourg](http://www.unistra.fr).
 
-(TL;DR) I am interested in artificial intelligence, machine learning, and the epistemological and ethical issues surrounding this field.
+(TL;DR) I am interested in artificial intelligence, machine learning, and the epistemological and ethical challenges associated with AI.
 
 * Learn more about my research activities [here](https://ajeannin.github.io/research/).
 * Learn more about my teaching activities [here](https://ajeannin.github.io/teaching/)

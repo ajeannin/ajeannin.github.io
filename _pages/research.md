@@ -78,7 +78,7 @@ Keywords (in alphabetic order):
   * M. Seyer / Non-representational approaches for agent behavior modeling (comp. sci. grad. student)
 
 ### Scientific dissemination
-* "Éthique de l'intelligence artificielle en santé: regard sur l'IA en contexte scientifique", séminaire sur les techniques *in silico* et intelligence artificielle de l'Institut du Médicament de Strasbourg (IMS), Strasbourg, Novembre 2025
+* "Éthique de l'intelligence artificielle en santé: regard sur l'IA en contexte scientifique", séminaire sur les techniques *in silico* et intelligence artificielle de l'Institut du Médicament de Strasbourg (IMS), Strasbourg, Novembre 2024
 * "Une perspective épistémologique sur l'intelligence artificielle", séminaire à l'occasion des 10 ans du laboratoire ICube, Strasbourg, janvier 2024
 * "L'intelligence artificielle comme système socio-techinique", séminaire des cadres de la fondation Vincent de Paul, Strasbourg, octobre 2023
 * "Intelligence artificielle, éthique et santé", intervention à la conférence IA de l'ESBS "L'IA au service de la santé ; éthique et cas d'usages", janvier 2023

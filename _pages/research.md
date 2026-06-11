@@ -120,4 +120,3 @@ The table below presents a selection of empirical contributions that have emerge
 * "Quelle intégration des systèmes intelligents dans nos sociétés ?", intervention à la table ronde Intelligence artificielle et démocratie, vers quels interactions et enjeux du jardin des sciences de l’Université de Strasbourg, Feb. 2020
 * "Transfer learning: review and recent advances", workshop of the ICube research axis Data Science and Artificial Intelligence (DSAI), Nov. 2019
 * Talk at the "Journées Système 2018" in Strasbourg: "Theoretical and practical challenges of machine learning" ([video, in french](https://webcast.in2p3.fr/video/defis-theoriques-et-pratiques-de-lintelligence-artificielle)), Oct. 2018
-* Hosting of the complex system stand at the Science Week ("fête de la science") / With P. Collet (2016 and 2017)

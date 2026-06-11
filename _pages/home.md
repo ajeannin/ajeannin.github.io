@@ -7,7 +7,7 @@ author_profile: true
 
 I am an Associate Professor in the [CSTB research group](http://icube-cstb.unistra.fr/fr/index.php/Accueil) (Complex System and Translational Bioinformatics) of the [ICube laboratory](https://icube.unistra.fr/) at the [University of Strasbourg](http://www.unistra.fr).
 
-(TL;DR) I am interested in artificial intelligence, machine learning, and the epistemological and ethical challenges associated with AI.
+(TL;DR) My research investigates the epistemic grounding of AI systems: how they acquire, represent, and justify knowledge about the domains they model.
 
 * Learn more about my research activities [here](https://ajeannin.github.io/research/).
 * Learn more about my teaching activities [here](https://ajeannin.github.io/teaching/)

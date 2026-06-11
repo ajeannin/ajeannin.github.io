@@ -20,7 +20,7 @@ Keywords (in alphabetic order):
 * transfer learning
 
 
-[List of publications](https://publis.icube.unistra.fr/?author=Anne+Jeannin-Girardon)
+[List of publications](https://intranet.icube.unistra.fr/fr/publications/?author=Anne+Jeannin-Girardon)
 
 ## Scientific supervision
 

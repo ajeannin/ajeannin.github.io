@@ -26,11 +26,11 @@ Keywords (in alphabetic order):
 
 ### PhD supervision
 * C. Schoenstein (Oct. 2025 - , co-supervision w/ O. Lecompte and Y. Nevers) / Artificial intelligence for large-scale homology relationships inference
-* A. Khudiyev (Oct. 2022 - Nov. 2025, directors: A. Jeannin-Girardon, L. Gardashova) / Neuro-symbolic artificial intelligence
-* Q. Christoffel (Oct. 2021 - Nov. 2024, director: A. Deruyver) / Learning differentiated representations in deep learning models
-* H. Khodji (Oct. 2020 - Nov. 2022, directors: J. Thompson & P Collet) / Characterization of the transferability of latent features in deep neural networks. Application to gene error prediction.
-* N. Scalzitti (Dec. 2018 - Sept. 2021, directors: J. Thompson & P. Collet) / New gene annotation and detection strategies for genome sequencing projects, by massively parallel coupled artificial intelligence and artificial evolution algorithms
-* R. Orhand (Oct. 2018 - Nov. 2022, directors: P. Parrend & P. Collet) / Towards autonomous computers by combination of artificial intelligence and artificial evolution
+* A. Khudiyev (Oct. 2022 - Nov. 2025, directors: A. Jeannin-Girardon, L. Gardashova) / Scaling intelligence: a formal and practical framework for computationally unbounded AI
+* Q. Christoffel (Oct. 2021 - Nov. 2024, director: A. Deruyver) / Learning differentiated representations in deep learning Models: detection of unknown classes and interpretability
+* H. Khodji (Oct. 2020 - Nov. 2022, directors: J. Thompson & P Collet) / Deep learning and transfer learning for error detection in biological sequences
+* N. Scalzitti (Dec. 2018 - Sept. 2021, directors: J. Thompson & P. Collet) / A New trategy for genome annotation using artificial intelligence
+* R. Orhand (Oct. 2018 - Nov. 2022, directors: P. Parrend & P. Collet) / Toward autonomous and explainable artificial intelligence for uncertain environments
 * A. Ouskova (Aug. 2018 - May 2022, directors: P. Parrend & P. Collet) / Evolutionary optimization of refrigeration systems using magnetocaloric alloy
 
 ### Apprenticeship training (graduate students)

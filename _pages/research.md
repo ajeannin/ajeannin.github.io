@@ -9,7 +9,7 @@ toc: true
 
 My research is centred on the notion of the **epistemic grounding** of artificial intelligence systems and, more specifically, on the question of how learning artificial systems acquire epistemic status with respect to the domains they are designed to model.
 
-An AI system is epistemically grounded when its underlying theoretical assumptions are well understood, and when its behaviour and latent representations can be examined, interpreted, and shown to align with the constraints of the domain it is intended to model.
+An AI system is epistemically grounded when its underlying theoretical assumptions are well understood, and when its behavior and latent representations can be examined, interpreted, and shown to align with the constraints of the domain it is intended to model.
 
 In my research, this overarching question is addressed from three complementary perspectives:
 

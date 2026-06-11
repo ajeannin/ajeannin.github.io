@@ -17,7 +17,7 @@ In my research, this overarching question is addressed from three complementary 
 * **Structural**, through the study of the representations learned by AI systems;
 * **Coupling-oriented**, through the design of AI systems as entities coupled to their environment.
 
-The question of epistemic grounding gives rise to a range of more specific research problems and motivates diverse empirical studies, many of which have been pursued through the work of the doctoral and Master's students I have supervised or co-supervised.
+The question of *epistemic grounding* gives rise to a range of more specific research problems and motivates diverse empirical studies, many of which have been pursued through the work of the doctoral and Master's students I have supervised or co-supervised.
 
 The table below presents a selection of empirical contributions that have emerged from this research programme. The full list of doctoral and Master's research projects is provided in the following section.
 

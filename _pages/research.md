@@ -7,14 +7,34 @@ toc: true
 ---
 ## Overview
 
-I am interested in machine learning and artificial intelligence, both from a theoretical and a practical standpoint (through research on knowledge transferability, model interpretability, uncertainty, and knowledge representation, and applications in bioinformatics or optimization).
-Additionally, I am interested in looking into the epistemological and ethical challenges raised by AI.
+My research is centred on the notion of the **epistemic grounding** of artificial intelligence systems and, more specifically, on the question of how learning artificial systems acquire epistemic status with respect to the domains they are designed to model.
 
-Keywords (in alphabetic order):
+An AI system is epistemically grounded when its underlying theoretical assumptions are well understood, and when its behaviour and latent representations can be examined, interpreted, and shown to align with the constraints of the domain it is intended to model.
+
+In my research, this overarching question is addressed from three complementary perspectives:
+
+* **Epistemological**, through the investigation of the epistemic limits of AI systems;
+* **Structural**, through the study of the representations learned by AI systems;
+* **Coupling-oriented**, through the design of AI systems as entities coupled to their environment.
+
+The question of epistemic grounding gives rise to a range of more specific research problems and motivates diverse empirical studies, many of which have been pursued through the work of the doctoral and Master's students I have supervised or co-supervised.
+
+The table below presents a selection of empirical contributions that have emerged from this research programme. The full list of doctoral and Master's research projects is provided in the following section.
+
+| Epistemological                     | Structural                                     | Coupling                                    |
+|-------------------------------------|------------------------------------------------|---------------------------------------------|
+| Quantitative post-hoc explainability | Learning differentiated representations | Default logic                                      |
+| Open set recognition                | Feature co-adapation                    | (Neuro-)Symbolic learning                          |
+| Auto-epistemic learning             | Graph constrained learning              | Non-monotonic neuro-symbolic learning              |
+| Learning in uncertain environments  |                                         |                                                    |
+
+### Keywords
+*(in alphabetic order)*
+
 * AI epistemology and ethics
-* autonomy
 * (deep) machine learning
 * epistemic and aleatoric uncertainty
+* explainable AI
 * interpretability
 * neuro-symbolic AI
 * transfer learning

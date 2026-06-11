@@ -98,7 +98,7 @@ The table below presents a selection of empirical contributions that have emerge
   * N. Mountasir / Comparing uncertainty quantifications in deep neural networks / co-supervisors : S. Marc-Zwecker and D. Bernhard (comp. sci. grad. student)
   * E. Chetouane / Semantic and artificial neural networks (comp. sci. grad. student)
 * 2019-20
-  * Q. Christoffel / Explicability of convolutional neural networks using evolutionary algorithms (comp. sci. grad. student)
+  * Q. Christoffel / Explainability of convolutional neural networks using evolutionary algorithms (comp. sci. grad. student)
   * F. Nawfal / Comparative study of transfer learning methods (comp. sci. grad. student)
 * 2018-19
   * E. Kalbé / Collision detection in virtual environments: comparison of cognitive and geometric approaches (comp. sci. grad. student)

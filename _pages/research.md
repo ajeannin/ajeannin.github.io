@@ -40,7 +40,7 @@ The table below presents a selection of empirical contributions that have emerge
 * transfer learning
 
 
-[List of publications](https://intranet.icube.unistra.fr/fr/publications/?author=Anne+Jeannin-Girardon)
+### [List of publications](https://intranet.icube.unistra.fr/fr/publications/?author=Anne+Jeannin-Girardon)
 
 ## Scientific supervision
 
@@ -109,7 +109,7 @@ The table below presents a selection of empirical contributions that have emerge
   * E. Kalbé / Non-representational approaches for agent behavior modeling (comp. sci. grad. student)
   * M. Seyer / Non-representational approaches for agent behavior modeling (comp. sci. grad. student)
 
-### Scientific dissemination
+## Scientific dissemination
 * "Comprendre l'intelligence artificielle : usages, attentes et réalités", conf' voisine du Jardin des Sciences de l'université de Strasbourg, Jan. 2026
 * "Usage des IA en contexte scientifique", 5ème Rencontre des plateformes scientifiques de recherche et de services CoRTEcS, Strasbourg, Nov. 2025
 * "Éthique de l'intelligence artificielle en santé: regard sur l'IA en contexte scientifique", séminaire sur les techniques *in silico* et intelligence artificielle de l'Institut du Médicament de Strasbourg (IMS), Strasbourg, Nov. 2024

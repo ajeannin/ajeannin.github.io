@@ -40,7 +40,7 @@ The table below presents a selection of empirical contributions that have emerge
 * transfer learning
 
 
-### [List of publications](https://intranet.icube.unistra.fr/fr/publications/?author=Anne+Jeannin-Girardon)
+### [List of publications](https://univoak.hal.science/search/index/?qa%5Bauth_t%5D%5B%5D=jeannin-girardon&rows=30&sort=publicationDate_tdate+desc)
 
 ## Scientific supervision
 

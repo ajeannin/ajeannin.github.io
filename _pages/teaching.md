@@ -12,7 +12,7 @@ author_profile: true
 * Epistemological and technical challenges of explainable AI (CS students, grad.)
 * Machine learning (Biotechnology students, grad.)
 * A history of concepts in artificial intelligence (Data Science students, grad.)
-* AI and research ethics (Ethics students, grad.)
+* AI and research ethics (Epistemology students, grad.)
  
 ## Previously taught courses
 * Undergrad
